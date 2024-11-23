@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.stockservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|solutionrelative:microservicedemo.stockservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.stockservice\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|solutionrelative:microservicedemo.stockservice\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.stockservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|solutionrelative:microservicedemo.stockservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.stockservice\\models\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|solutionrelative:microservicedemo.stockservice\\models\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.stockservice\\consumer\\ordercreatedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|solutionrelative:microservicedemo.stockservice\\consumer\\ordercreatedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.orderservice\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|solutionrelative:microservicedemo.orderservice\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.stockservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|solutionrelative:microservicedemo.stockservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0190419C-5EB0-4C56-ADE7-A9ABEA6D3F41}|MicroServiceDemo.Shared\\MicroServiceDemo.Shared.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.shared\\rabbitmqsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0190419C-5EB0-4C56-ADE7-A9ABEA6D3F41}|MicroServiceDemo.Shared\\MicroServiceDemo.Shared.csproj|solutionrelative:microservicedemo.shared\\rabbitmqsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|solutionrelative:microservicedemo.orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.stockservice\\microservicedemo.stockservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA5AC2E2-CD10-4043-8FE7-679D28F244BE}|MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj|solutionrelative:microservicedemo.stockservice\\microservicedemo.stockservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|solutionrelative:microservicedemo.orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.orderservice\\microservicedemo.orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|solutionrelative:microservicedemo.orderservice\\microservicedemo.orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|solutionrelative:microservicedemo.orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0190419C-5EB0-4C56-ADE7-A9ABEA6D3F41}|MicroServiceDemo.Shared\\MicroServiceDemo.Shared.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.shared\\event\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0190419C-5EB0-4C56-ADE7-A9ABEA6D3F41}|MicroServiceDemo.Shared\\MicroServiceDemo.Shared.csproj|solutionrelative:microservicedemo.shared\\event\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0190419C-5EB0-4C56-ADE7-A9ABEA6D3F41}|MicroServiceDemo.Shared\\MicroServiceDemo.Shared.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.shared\\message\\orderitemmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0190419C-5EB0-4C56-ADE7-A9ABEA6D3F41}|MicroServiceDemo.Shared\\MicroServiceDemo.Shared.csproj|solutionrelative:microservicedemo.shared\\message\\orderitemmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0190419C-5EB0-4C56-ADE7-A9ABEA6D3F41}|MicroServiceDemo.Shared\\MicroServiceDemo.Shared.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.shared\\event\\common\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0190419C-5EB0-4C56-ADE7-A9ABEA6D3F41}|MicroServiceDemo.Shared\\MicroServiceDemo.Shared.csproj|solutionrelative:microservicedemo.shared\\event\\common\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.orderservice\\models\\viewmodel\\createordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|solutionrelative:microservicedemo.orderservice\\models\\viewmodel\\createordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.orderservice\\context\\orderservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|solutionrelative:microservicedemo.orderservice\\context\\orderservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.orderservice\\models\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|solutionrelative:microservicedemo.orderservice\\models\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|c:\\users\\furkanmeral\\source\\repos\\microservicedemo\\microservicedemo.orderservice\\models\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0833A422-FCE7-47B8-B463-0BC68E39A1FD}|MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj|solutionrelative:microservicedemo.orderservice\\models\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MicroServiceDemo.StockService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MicroServiceDemo.StockService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T18:51:11.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\Models\\Entities\\Stock.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.StockService\\Models\\Entities\\Stock.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\Models\\Entities\\Stock.cs",
+              "RelativeToolTip": "MicroServiceDemo.StockService\\Models\\Entities\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:07:23.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderCreatedEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\Consumer\\OrderCreatedEventConsumer.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.StockService\\Consumer\\OrderCreatedEventConsumer.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\Consumer\\OrderCreatedEventConsumer.cs",
+              "RelativeToolTip": "MicroServiceDemo.StockService\\Consumer\\OrderCreatedEventConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:58:32.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.StockService\\Program.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\Program.cs",
+              "RelativeToolTip": "MicroServiceDemo.StockService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:59:35.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\Services\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.StockService\\Services\\MongoDbService.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\Services\\MongoDbService.cs",
+              "RelativeToolTip": "MicroServiceDemo.StockService\\Services\\MongoDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:56:04.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroServiceDemo.StockService\\appsettings.json",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\appsettings.json",
+              "RelativeToolTip": "MicroServiceDemo.StockService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T16:54:51.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.OrderService\\Models\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "MicroServiceDemo.OrderService\\Models\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:33:27.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RabbitMQSetting.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.Shared\\RabbitMQSetting.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.Shared\\RabbitMQSetting.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.Shared\\RabbitMQSetting.cs",
+              "RelativeToolTip": "MicroServiceDemo.Shared\\RabbitMQSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:01:30.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroServiceDemo.OrderService\\appsettings.json",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\appsettings.json",
+              "RelativeToolTip": "MicroServiceDemo.OrderService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T16:33:30.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MicroServiceDemo.StockService",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj",
+              "RelativeDocumentMoniker": "MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj",
+              "RelativeToolTip": "MicroServiceDemo.StockService\\MicroServiceDemo.StockService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T16:55:28.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MicroServiceDemo.OrderService",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj",
+              "RelativeDocumentMoniker": "MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj",
+              "RelativeToolTip": "MicroServiceDemo.OrderService\\MicroServiceDemo.OrderService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T16:52:52.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Program.cs",
+              "RelativeToolTip": "MicroServiceDemo.OrderService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:33:30.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.OrderService\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MicroServiceDemo.OrderService\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA5wDcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:33:30.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItemMessage.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.Shared\\Message\\OrderItemMessage.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.Shared\\Message\\OrderItemMessage.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.Shared\\Message\\OrderItemMessage.cs",
+              "RelativeToolTip": "MicroServiceDemo.Shared\\Message\\OrderItemMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:37:33.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.Shared\\Event\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.Shared\\Event\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.Shared\\Event\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "MicroServiceDemo.Shared\\Event\\OrderCreatedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:36:31.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEvent.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.Shared\\Event\\Common\\IEvent.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.Shared\\Event\\Common\\IEvent.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.Shared\\Event\\Common\\IEvent.cs",
+              "RelativeToolTip": "MicroServiceDemo.Shared\\Event\\Common\\IEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:35:24.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateOrderVM.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Models\\ViewModel\\CreateOrderVM.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.OrderService\\Models\\ViewModel\\CreateOrderVM.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Models\\ViewModel\\CreateOrderVM.cs",
+              "RelativeToolTip": "MicroServiceDemo.OrderService\\Models\\ViewModel\\CreateOrderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:33:30.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderServiceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Context\\OrderServiceDbContext.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.OrderService\\Context\\OrderServiceDbContext.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Context\\OrderServiceDbContext.cs",
+              "RelativeToolTip": "MicroServiceDemo.OrderService\\Context\\OrderServiceDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:33:30.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Models\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.OrderService\\Models\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Models\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "MicroServiceDemo.OrderService\\Models\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:33:30.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Models\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "MicroServiceDemo.OrderService\\Models\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\FurkanMeral\\source\\repos\\MicroServiceDemo\\MicroServiceDemo.OrderService\\Models\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "MicroServiceDemo.OrderService\\Models\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:33:29.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\FurkanMeral\source\repos\MicroServiceDemo\MicroServiceDemo.Shared\bin\Debug\net8.0\MicroServiceDemo.Shared.deps.json
+C:\Users\FurkanMeral\source\repos\MicroServiceDemo\MicroServiceDemo.Shared\bin\Debug\net8.0\MicroServiceDemo.Shared.dll
+C:\Users\FurkanMeral\source\repos\MicroServiceDemo\MicroServiceDemo.Shared\bin\Debug\net8.0\MicroServiceDemo.Shared.pdb
+C:\Users\FurkanMeral\source\repos\MicroServiceDemo\MicroServiceDemo.Shared\obj\Debug\net8.0\MicroServiceDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FurkanMeral\source\repos\MicroServiceDemo\MicroServiceDemo.Shared\obj\Debug\net8.0\MicroServiceDemo.Shared.AssemblyInfoInputs.cache
+C:\Users\FurkanMeral\source\repos\MicroServiceDemo\MicroServiceDemo.Shared\obj\Debug\net8.0\MicroServiceDemo.Shared.AssemblyInfo.cs
+C:\Users\FurkanMeral\source\repos\MicroServiceDemo\MicroServiceDemo.Shared\obj\Debug\net8.0\MicroServiceDemo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\FurkanMeral\source\repos\MicroServiceDemo\MicroServiceDemo.Shared\obj\Debug\net8.0\MicroServiceDemo.Shared.dll
+C:\Users\FurkanMeral\source\repos\MicroServiceDemo\MicroServiceDemo.Shared\obj\Debug\net8.0\refint\MicroServiceDemo.Shared.dll
+C:\Users\FurkanMeral\source\repos\MicroServiceDemo\MicroServiceDemo.Shared\obj\Debug\net8.0\MicroServiceDemo.Shared.pdb
+C:\Users\FurkanMeral\source\repos\MicroServiceDemo\MicroServiceDemo.Shared\obj\Debug\net8.0\ref\MicroServiceDemo.Shared.dll
